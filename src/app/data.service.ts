@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs/dist/types';
+import { Observable } from 'rxjs';
 import { TypeMovies } from './data.type';
 
 @Injectable()
